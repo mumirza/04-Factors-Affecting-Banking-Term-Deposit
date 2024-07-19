@@ -1,5 +1,5 @@
-# Final_Project_Group_6_Analysis
-# Zeel R. Patel, Niyati Virmani, Kimberly C. Dmello, Haotian Zhu, Muhammad U. Mirza
+# Final_Project_Group_EDA_Analysis
+# Muhammad U. Mirza
 
 # -------------------------------------------------
 #                   Clear the Console
